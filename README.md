@@ -1,2 +1,2 @@
-# .github
+# freaky
 freaky
